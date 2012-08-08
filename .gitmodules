@@ -34,3 +34,9 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundles/vim-xdebug"]
+	path = bundles/vim-xdebug
+	url = https://github.com/joonty/vim-xdebug.git
+[submodule "bundle/vim-powerline"]
+	path = bundle/vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline
